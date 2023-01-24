@@ -16,6 +16,34 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Quentin\Documents\Projets\.NET\ASP.NET Core\Fruits\Fruits\Fruits
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Quentin/Documents/Projets/.NET/ASP.NET Core/Fruits/Fruits/Fruits/Areas/Fruits/Pages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnJ1aXRzXFBhZ2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Quentin/Documents/Projets/.NET/ASP.NET Core/Fruits/Fruits/Fruits/Areas/Fruits/Pages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnJ1aXRzXFBhZ2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Quentin/Documents/Projets/.NET/ASP.NET Core/Fruits/Fruits/Fruits/Areas/Fruits/Pages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnJ1aXRzXFBhZ2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Quentin/Documents/Projets/.NET/ASP.NET Core/Fruits/Fruits/Fruits/Areas/Fruits/Pages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnJ1aXRzXFBhZ2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Quentin/Documents/Projets/.NET/ASP.NET Core/Fruits/Fruits/Fruits/Areas/Fruits/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnJ1aXRzXFBhZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Quentin/Documents/Projets/.NET/ASP.NET Core/Fruits/Fruits/Fruits/Areas/Fruits/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnJ1aXRzXFBhZ2VzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Quentin/Documents/Projets/.NET/ASP.NET Core/Fruits/Fruits/Fruits/Areas/Fruits/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRnJ1aXRzXFBhZ2VzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Quentin/Documents/Projets/.NET/ASP.NET Core/Fruits/Fruits/Fruits/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
