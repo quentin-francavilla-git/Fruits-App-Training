@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Options\" />
+    <Folder Include="Services\" />
     <Folder Include="wwwroot\fruits\images\" />
   </ItemGroup>
 
